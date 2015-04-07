@@ -6,4 +6,4 @@ Just type this command into Terminal. echo $TMPDIR
 To open and browse the folder, use open $TMPDIR.
 
 Windows:
-C:\Temp
+Hold Win + R then type in "C:\Temp"
